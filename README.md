@@ -1,2 +1,2 @@
 # Text-analytics
-collection of sample program for data analtics
+collection of sample program in R for loading twitter data into csv file
